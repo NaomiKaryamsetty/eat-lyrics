@@ -1,0 +1,45 @@
+/* body {
+  background-color: red;
+} */
+
+.lander {
+  text-align: center;
+}
+
+.verseno {
+  font-weight: bold;
+  font-size: 75%;
+  vertical-align: top;
+}
+
+.songtitle {
+  margin: 0px;
+}
+
+.artist {
+  margin-bottom: 8px;
+}
+
+.songref {
+  /* font-weight: bold; */
+}
+
+.portion {
+  padding: 16px;
+}
+
+.indent01 {
+  text-indent: 4%
+}
+
+.indent02 {
+  text-indent: 8%;
+}
+
+.indent03 {
+  text-indent: 12%;
+}
+
+footer {
+  font-size: 80%;
+}
